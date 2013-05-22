@@ -1,6 +1,6 @@
 $(document).ready(function(){
-  $("body").append("<iframe id="frame1"></iframe>");
-  $("body").append("<iframe id="frame2"></iframe>");
-  $("body").append("<iframe id="frame3"></iframe>");
-  $("body").append("<iframe id="frame4"></iframe>");
+  $("#primeiro").append("<iframe id="frame1"></iframe>");
+  $("#segundo").append("<iframe id="frame2"></iframe>");
+  $("#terceiro").append("<iframe id="frame3"></iframe>");
+  $("#quarto").append("<iframe id="frame4"></iframe>");
 });  
